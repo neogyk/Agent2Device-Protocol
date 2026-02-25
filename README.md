@@ -12,6 +12,10 @@ List of related projects ideas:
 * [The AI+Microscopy](https://www.nae.edu/340955/SelfDriving-Microscopy-for-AIMLEnabled-Physics-Discovery-and-Materials-Optimization)
 * [Self-Driving Microscopes: AI Meets Super-Resolution Microscopy](https://pubmed.ncbi.nlm.nih.gov/39797467/)
 
+## Connect the ROS + LLM:
+ -----
+* [IP over Laser](https://www.mikekohn.net/micro/ip_over_lasers.php)
+
 ## Course in AI/Self-driving lab
 [AC](https://ac-microcourses.readthedocs.io/en/latest/courses/software-dev/index.html)
 
